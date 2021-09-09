@@ -1,8 +1,11 @@
 body{
-    background-color: aqua;
+    background-color: rgb(220, 255, 255);
 }
 img{
     width: 30%;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
 }
 .fa-solid{
     width: 100%;
