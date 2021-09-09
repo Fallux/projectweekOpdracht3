@@ -1,3 +1,21 @@
 body{
     background-color: aqua;
 }
+img{
+    width: 30%;
+}
+.fa-solid{
+    width: 100%;
+}
+#autoImg{
+    position: static;
+    /* float: left; */
+}
+#fScreen{
+    position: absolute;
+    float: right;
+    margin-top: 233px;
+    margin-left: -23px;
+    font-size: larger;
+    color: white;
+}
